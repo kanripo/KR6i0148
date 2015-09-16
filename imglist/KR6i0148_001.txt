@@ -1,0 +1,5 @@
+001-0791c23	TKD 20-1190b	buddhist/K-koreana/20-tif/1100-1199/20_1190_B.TIF
+001-0792a20	TKD 20-1190c	buddhist/K-koreana/20-tif/1100-1199/20_1190_C.TIF
+001-0792b10	TKD 20-1191a	buddhist/K-koreana/20-tif/1100-1199/20_1191_A.TIF
+001-0792a00	T 001-0792a	buddhist/T-taisho/T14/07/T14-0792.png
+001-0792b00	T 001-0792b	buddhist/T-taisho/T14/07/T14-0792.png
