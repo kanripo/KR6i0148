@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:11:09.000618
+#+DATE: 2015-08-30 20:11:10.432231
 #+TITLE: 佛說旃陀越國王經
 #+PROPERTY: CBETA_ID T14n0518
 #+PROPERTY: ID KR6i0148
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 518
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6i0148_T_000-0791c>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0148_T_001-0791c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.518¶
-
- 佛說旃陀越國王經¶
+No. 518¶
+佛說旃陀越國王經¶
 ¶
 宋居士沮渠京聲譯¶
 
@@ -109,8 +108,7 @@ No.518¶
 
 佛告王言：¶
 「欲知比丘須陀者，是王昔所用婆羅門言譖，¶
-殺兼娠者子也。母死之後，子於塚中生，塚¶
-中母半身不朽，得飲其湩，乃至六年，今隨¶
+殺兼娠者子也。母死之後，子於塚中生，塚中母半身不朽，得飲其湩，乃至六年，今隨¶
 我為道，乃致於此。」
 
 王聞佛言，更恐怖不能¶
