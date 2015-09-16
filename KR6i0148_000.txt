@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說旃陀越國王經
+#+DATE: 2015-08-30 20:11:09.214801
+#+PROPERTY: JUAN 0
